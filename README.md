@@ -16,10 +16,14 @@ In my repository you can find:
 
 3. R script called run_analysis.R that does requested tasks: 
 
-    Merges the training and the test sets to create one data set;/n
-    Extracts only the measurements on the mean and standard deviation for each measurement;/n
-    Uses descriptive activity names to name the activities in the data set;/n
-    Appropriately labels the data set with descriptive variable names;/n
-    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject;/n
+    Merges the training and the test sets to create one data set;
+    
+    Extracts only the measurements on the mean and standard deviation for each measurement;
+    
+    Uses descriptive activity names to name the activities in the data set;
+    
+    Appropriately labels the data set with descriptive variable names;
+    
+    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject;
 
 Branislav
