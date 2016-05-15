@@ -9,11 +9,13 @@ This repository contains my work for the course project  "Getting and Cleaning d
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 In my repository you can find: 
+
 1. This file, README.md. This file explains all of my work and how it is connected;
 
 2. CodeBook.md - a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data;
 
 3. R script called run_analysis.R that does requested tasks: 
+
     Merges the training and the test sets to create one data set;
     Extracts only the measurements on the mean and standard deviation for each measurement;
     Uses descriptive activity names to name the activities in the data set;
