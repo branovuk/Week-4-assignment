@@ -31,4 +31,4 @@ Merge data subset with the activityType table to inlude the descriptive activity
 
 ## Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
    We need to produce only a data set with the average of each veriable for each activity and subject.
-   Used function: cbind, rbind, dcast.
+   Used function: cbind, rbind, dcast. File: tidy_data.txt.
