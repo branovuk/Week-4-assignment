@@ -3,7 +3,7 @@
 
 ###Introduction
 
-This repository contains my work for the course project for the course "Getting and Cleaning data", part of the Data Science Specialization.
+This repository contains my work for the course project  "Getting and Cleaning data", part of the Data Science Specialization.
 
 ### About the files 
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
